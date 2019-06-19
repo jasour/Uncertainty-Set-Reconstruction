@@ -7,6 +7,12 @@ Given the moment sequence of a measure µ, we find a polynomial P : R^n → R su
 K = {x ∈ R^n : P(x) ≥ 1} coincides with the support set of the measure µ.
 
 
+**These are working notes and codes and will be updated.**
+
+
+
+
+
 **Publications**
 
 1) Ashkan Jasour, C. Lagoa, ”Reconstruction of Support of a Measure From Its Moments”, 
