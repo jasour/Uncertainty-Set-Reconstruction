@@ -1,1 +1,3 @@
-Examples: Lecture 10, Pages 157, 160, 168, 169.
+- Examples: Lecture 10, Pages 157, 160, 168, 169.
+- Lecture 10: Probabilistic Nonlinear Safety Verification
+- https://rarnop.mit.edu/Lectures-Codes
